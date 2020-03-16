@@ -1,0 +1,45 @@
+.navbar{
+    padding: 10px 0;
+    background-color: #3c8dbc;
+}
+
+.navbar-toggle{
+    color: #fff;
+}
+
+.navbar-menu{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 210px;
+    margin: 0;
+    padding: 0;
+    z-index: 9998;
+    background-color:#333;
+    list-style: none;
+}
+.navbar-menuitem{
+    padding: 15px;
+
+}
+.navbar-menuitem a{
+    color: #fff;
+    text-decoration: none;
+}
+.navbar-menuitem a:hover{
+    color :#63B8FF;
+}
+.navbar-usuario{
+    padding: 19.9px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #333;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.ulaula{
+    background-color: #367fa9;
+}
